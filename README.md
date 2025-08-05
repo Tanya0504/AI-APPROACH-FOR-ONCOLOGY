@@ -1,8 +1,61 @@
-# AI-APPROACH-FOR-ONCOLOGY
+# 🧬 AI Approach for Oncology using Mono-Cultured HGB Data 🌟
 
-Paper title: AI-APPROACH-FOR-ONCOLOGY-USING-MONO-CULTURED-HGB-DATA-FROM-VARIOUS-METHODS.
+> *Presented at ICTA24, Uzbekistan 🇺🇿*
 
-This repository contains our research paper, "AI Approach for Oncology Using Mono-Cultured HGB Data from Various Methods," which was presented at ICTA24, Uzbekistan. In this study, we leverage AI to classify bacterial species responsible for causing cancer. A mono-culture approach, meaning a single type of species is analyzed, is utilized to ensure precise classification. Our methodology follows a semi-dry lab approach, integrating computational analysis with biological insights. We are the primary authors of this paper, and this research contributes to advancing oncology through AI-driven bacterial classification.
+---
 
+## 📄 Paper Title
 
-#THE RESEARCH PAPER IS NOW PUBLISHED AND CAN BE ACCESSEX AT : https://ieeexplore.ieee.org/abstract/document/10841155.
+**AI Approach for Oncology Using Mono-Cultured HGB Data from Various Methods**
+
+---
+
+## 📚 About the Research
+
+This repository contains our research paper that explores the application of **Artificial Intelligence (AI)** to classify bacterial species responsible for cancer. The key highlights of our work:
+
+- 🔬 **Mono-culture Approach**: A single type of bacterial species is analyzed for precise classification.
+- 🧑‍🔬 **Semi-Dry Lab Methodology**: Integration of computational analysis with biological insights for accurate results.
+- 💻 **AI-Driven Classification**: Advanced models are leveraged to assist in cancer research and bacterial identification.
+
+We are the **primary authors** of this paper and our work contributes toward advancing oncology research through cutting-edge AI techniques.
+
+---
+
+## 📝 Paper Publication
+
+📢 **The research paper is now officially published!**  
+You can access it on **IEEE Xplore** at the following link:
+
+👉 [AI Approach for Oncology Using Mono-Cultured HGB Data from Various Methods](https://ieeexplore.ieee.org/abstract/document/10841155)
+
+---
+
+## 🎯 Key Contributions
+
+- Precise bacterial classification for oncology applications
+- Novel dataset and methodology bridging bioinformatics and AI
+- Pioneering the use of mono-cultured HGB data in cancer research
+
+---
+
+## 👥 Authors
+
+- Tanya Singh  
+- Nakshatra Sawarkar
+- Divya Talole
+
+---
+
+If you found this work inspiring:
+
+🌟 Star this repository  
+🔁 Share it with your network  
+🧠 Reach out for any questions or collaborative opportunities at - singh.tanya2004@gmail.com
+
+---
+ 
+> *"AI and biology: together redefining the future of oncology research."*
+
+If you use our work, please cite it as:
+
