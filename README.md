@@ -57,5 +57,5 @@ If you found this work inspiring:
  
 > *"AI and biology: together redefining the future of oncology research."*
 
-If you use our work, please cite it as:
+If you use our work, please cite it 
 
